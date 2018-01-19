@@ -1,0 +1,111 @@
+/*.nav-link {*/
+/*    padding-left: 30px!important;*/
+/*    padding-right: 30px !important;*/
+/*}*/
+
+body {
+    background-image: url("/homeBG.jpg");
+    background-position: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    background-color: #ef5858;
+}
+
+.card a {
+    color: black!important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.card-margin {
+    margin-top: 25px;
+}
+
+.gap {
+    padding-bottom: 100px;
+}
+
+
+/*========================  HOME PAGE STYLING STARTS HERE ================================*/
+
+.space {
+    margin-top: 165px;
+    text-align: center;
+}
+
+.space2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.col-sm {
+    border: 0px grey solid;
+    border-radius: 15px;
+    padding: 30px 20px 20px 20px;
+    background-color: white;
+    margin: 17px 17px 17px 17px;
+    -webkit-box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 35px -4px rgba(0,0,0,0.75);
+}
+
+.btn {
+    cursor: pointer;
+    padding: 15px 15px 15px 15px;
+    border-radius: 15px;
+}
+
+.fa {
+    margin-bottom: 6px;
+    padding-bottom: 10px;
+    color: #7288ad;
+}
+
+/*========================  CONTACT STYLING STARTS HERE ================================*/
+
+ul {
+  list-style-type: none!important;
+  padding: 0;
+  margin-left: 10px;
+}
+
+.price-space {
+    margin-top:100px;
+}
+/*========================  THEME PAGE STARTS HERE ================================*/
+
+.card-body {
+    border-top: 1px #c1c1c1 solid;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 35px -4px rgba(181,181,181,1);
+    -moz-box-shadow: 0px 0px 35px -4px rgba(181,181,181,1);
+    box-shadow: 0px 0px 35px -4px rgba(181,181,181,1);
+}
+
+.card-img-top {
+    -webkit-box-shadow: 0px -11px 36px -3px rgba(181,181,181,1);
+-moz-box-shadow: 0px -11px 36px -3px rgba(181,181,181,1);
+box-shadow: 0px -11px 36px -3px rgba(181,181,181,1);
+}
+
+.themespace {
+    margin-top: 100px;
+}
+
+.navbar-brand {
+    padding: 0!important;
+    line-height: 0!important;
+}
+
+.no-display {
+    visibility: hidden!important;
+}
+
+.referral {
+    font-size: 35px;
+}
